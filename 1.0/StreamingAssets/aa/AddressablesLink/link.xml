@@ -6,6 +6,7 @@
     <type fullname="AutoLang" preserve="all" />
     <type fullname="Count123" preserve="all" />
     <type fullname="DisplayClick" preserve="all" />
+    <type fullname="DotSizer" preserve="all" />
     <type fullname="EndWaitSkip" preserve="all" />
     <type fullname="GameButton" preserve="all" />
     <type fullname="GameHelp2" preserve="all" />

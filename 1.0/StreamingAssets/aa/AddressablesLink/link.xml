@@ -43,7 +43,6 @@
     <type fullname="Questions_Table" preserve="all" />
     <type fullname="Resolution" preserve="all" />
     <type fullname="ResultScore" preserve="all" />
-    <type fullname="SampleText" preserve="all" />
     <type fullname="SceneGame" preserve="all" />
     <type fullname="SceneMenu" preserve="all" />
     <type fullname="Score" preserve="all" />
